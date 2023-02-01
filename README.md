@@ -3,7 +3,6 @@
 
 - 🌱 I’m currently learning **Statistics for data analyst**
 
-- ⚡ Fun fact **I have ADHD**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
