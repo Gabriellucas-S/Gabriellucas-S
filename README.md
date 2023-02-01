@@ -4,6 +4,8 @@
 - 🌱 I’m currently learning **Statistics for data analyst**
 
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gabriellucas-S&show_icons=true&theme=dracula)](https://github.com/Gabriellucas-Sa/github-readme-stats)            [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriellucas-S&theme=dracula)](https://github.com/Gabriellucas-S/github-readme-stats)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/gabriel lucas silva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gabriel lucas silva" height="30" width="40" /></a>
