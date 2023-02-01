@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gabriel Lucas da Silva</h1>
-<h3 align="center">A passionate DataAnalyst learner</h3>
+<h3 align="center">A fresh DataAnalyst learner</h3>
 
 - 🌱 I’m currently learning **Statistics for data analyst**
 
